@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君のそば",
+  "base_artist": "東京、君がいない街",
+  "createdAt": "2026-03-09T00:16:51.786902Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君のそば",
+      "artist": "東京、君がいない街",
+      "has_synced": false,
+      "path": "select/pl_01_君のそば_東京、君がいない街.txt"
+    }
+  ]
+}
